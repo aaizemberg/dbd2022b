@@ -7,3 +7,5 @@ data: [https://data.world/makeovermonday/2022w45](https://data.world/makeovermon
 [Viz Review](https://youtu.be/fhNPYEWJYxk) - Eva Murray
 
 La URL al CSV en dataworld: [https://download.data.world/s/ibjfmujmitmsc64h3zpqxmphe5un36](https://download.data.world/s/ibjfmujmitmsc64h3zpqxmphe5un36)
+
+[La viz en mi profile de Tableau Public](https://public.tableau.com/app/profile/ariel.aizemberg/viz/mm_2022w45/LineChart)
